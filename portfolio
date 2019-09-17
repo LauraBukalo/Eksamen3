@@ -1,0 +1,487 @@
+
+
+<!DOCTYPE html>
+<html class="html" lang="en-GB" itemscope itemtype="http://schema.org/WebPage">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<title>Logo &#8211; Grafisk design</title>
+<meta name='robots' content='noindex,follow' />
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Logo &raquo; Feed" href="http://ldbeaaa.dk/basicwordpress/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Logo &raquo; Comments Feed" href="http://ldbeaaa.dk/basicwordpress/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ldbeaaa.dk\/basicwordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://ldbeaaa.dk/basicwordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://ldbeaaa.dk/basicwordpress/wp-includes/css/dist/block-library/theme.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://ldbeaaa.dk/basicwordpress/wp-content/themes/oceanwp/style.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='http://ldbeaaa.dk/basicwordpress/wp-content/themes/oceanwp-child/style.css?ver=1.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://ldbeaaa.dk/basicwordpress/wp-content/themes/oceanwp/assets/css/third/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='http://ldbeaaa.dk/basicwordpress/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://ldbeaaa.dk/basicwordpress/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://ldbeaaa.dk/basicwordpress/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css'  href='http://ldbeaaa.dk/basicwordpress/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-google-font-asul-css'  href='//fonts.googleapis.com/css?family=Asul%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&#038;subset=latin&#038;ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://ldbeaaa.dk/basicwordpress/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://ldbeaaa.dk/basicwordpress/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://ldbeaaa.dk/basicwordpress/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://ldbeaaa.dk/basicwordpress/wp-content/uploads/elementor/css/global.css?ver=1567520378' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-12-css'  href='http://ldbeaaa.dk/basicwordpress/wp-content/uploads/elementor/css/post-12.css?ver=1568652727' type='text/css' media='all' />
+<link rel='stylesheet' id='oe-widgets-style-css'  href='http://ldbeaaa.dk/basicwordpress/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CArimo%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COvo%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.2.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://ldbeaaa.dk/basicwordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://ldbeaaa.dk/basicwordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://ldbeaaa.dk/basicwordpress/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ldbeaaa.dk/basicwordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ldbeaaa.dk/basicwordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.3" />
+<link rel="canonical" href="http://ldbeaaa.dk/basicwordpress/" />
+<link rel='shortlink' href='http://ldbeaaa.dk/basicwordpress/' />
+<link rel="alternate" type="application/json+oembed" href="http://ldbeaaa.dk/basicwordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fldbeaaa.dk%2Fbasicwordpress%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://ldbeaaa.dk/basicwordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fldbeaaa.dk%2Fbasicwordpress%2F&#038;format=xml" />
+<!-- OceanWP CSS -->
+<style type="text/css">
+/* General CSS */@media only screen and (min-width:960px){.content-area,.content-left-sidebar .content-area{width:68%}}.page-header,.has-transparent-header .page-header{padding:14px 0 14px 0}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea{font-size:17px}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{font-size:17px}/* Header CSS */#site-logo #site-logo-inner,.oceanwp-social-menu .social-menu-inner,#site-header.full_screen-header .menu-bar-inner,.after-header-content .after-header-content-inner{height:115px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,.after-header-content-inner >a{line-height:115px}#site-header,.has-transparent-header .is-sticky #site-header,.has-vh-transparent .is-sticky #site-header.vertical-header,#searchform-header-replace{background-color:#fff7f4}#site-header{border-color:#c6c6c6}#site-header-inner{padding:0 62px 0 0}.effect-one #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-three #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after{background-color:#ba0e14}.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfHover >a.menu-link >span:after{color:#ba0e14}.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfHover >a.menu-link >span:after{text-shadow:10px 0 #ba0e14,-10px 0 #ba0e14}#site-navigation-wrap .dropdown-menu >li >a{padding:0 37px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,#searchform-header-replace-close{color:#0a0000}#site-navigation-wrap .dropdown-menu >li >a:hover,.oceanwp-mobile-menu-icon a:hover,#searchform-header-replace-close:hover{color:#9e0027}#site-navigation-wrap .dropdown-menu >.current-menu-item >a,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a,#site-navigation-wrap .dropdown-menu >.current-menu-item >a:hover,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a:hover{color:#9e0027}.dropdown-menu .sub-menu{min-width:123px}.navigation li.mega-cat .mega-cat-title{color:#0a0a0a}/* Typography CSS */h1,h2,h3,h4,h5,h6,.theme-heading,.widget-title,.oceanwp-widget-recent-posts-title,.comment-reply-title,.entry-title,.sidebar-box .widget-title{line-height:1;letter-spacing:.6px}#site-navigation-wrap .dropdown-menu >li >a,#site-header.full_screen-header .fs-dropdown-menu >li >a,#site-header.top-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.center-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a{font-family:Asul;font-weight:400;font-size:18px;letter-spacing:2.6px}
+</style></head>
+
+<body class="home page-template page-template-elementor_header_footer page page-id-12 wp-embed-responsive oceanwp-theme sidebar-mobile no-header-border default-breakpoint content-full-screen page-header-disabled elementor-default elementor-template-full-width elementor-page elementor-page-12">
+
+	
+	<div id="outer-wrap" class="site clr">
+
+		
+		<div id="wrap" class="clr">
+
+			
+			
+<header id="site-header" class="minimal-header effect-two clr" data-height="115" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+
+	
+		
+			
+			<div id="site-header-inner" class="clr container">
+
+				
+				
+
+<div id="site-logo" class="clr" itemscope itemtype="http://schema.org/Brand">
+
+	
+	<div id="site-logo-inner" class="clr">
+
+		
+			<a href="http://ldbeaaa.dk/basicwordpress/" rel="home" class="site-title site-logo-text">Logo</a>
+
+		
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+			<div id="site-navigation-wrap" class="clr">
+		
+			
+			
+			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+
+				<ul id="menu-main" class="main-menu dropdown-menu sf-menu"><li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-20"><a href="http://ldbeaaa.dk/basicwordpress" class="menu-link"><span class="text-wrap">Hjem</span></a></li><li id="menu-item-167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167"><a href="http://ldbeaaa.dk/basicwordpress/om-mig/" class="menu-link"><span class="text-wrap">Om mig</span></a></li><li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="http://ldbeaaa.dk/basicwordpress/mit-content/" class="menu-link"><span class="text-wrap">Mit content</span></a></li></ul>
+			</nav><!-- #site-navigation -->
+
+			
+			
+					</div><!-- #site-navigation-wrap -->
+		
+		
+	
+				
+	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
+		
+		
+		
+		<a href="#" class="mobile-menu">
+							<i class="fa fa-bars"></i>
+							<span class="oceanwp-text">Menu</span>
+
+						</a>
+
+		
+		
+		
+	</div><!-- #oceanwp-mobile-menu-navbar -->
+
+
+			</div><!-- #site-header-inner -->
+
+			
+			
+		
+				
+	
+</header><!-- #site-header -->
+
+
+						
+			<main id="main" class="site-main clr" >
+
+						<div data-elementor-type="post" data-elementor-id="12" class="elementor elementor-12" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-5b42194f elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-invisible elementor-section elementor-top-section" data-id="5b42194f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;none&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-771ca216 elementor-column elementor-col-100 elementor-top-column" data-id="771ca216" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-41782c66 elementor-absolute elementor-widget elementor-widget-heading" data-id="41782c66" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-small">Portfolio 2019 
+<br> 
+laura bukalo</span>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-8143bf5 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="8143bf5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4cbd00d elementor-column elementor-col-50 elementor-top-column" data-id="4cbd00d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-a445ac2 elementor-widget elementor-widget-spacer" data-id="a445ac2" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1663930 elementor-widget elementor-widget-text-editor" data-id="1663930" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Hej og velkommen til en multimediedesigners portfolio. Jeg har en passion for visuelle udtryk inde for grafisk design, og har derudover&nbsp;<span style="font-family: Roboto, sans-serif; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;">fokus på content creation markedsføring af SoMe.</span></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3e4adf5 elementor-widget elementor-widget-spacer" data-id="3e4adf5" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a3c53ab elementor-column elementor-col-50 elementor-top-column" data-id="a3c53ab" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c2756c1 elementor-widget elementor-widget-spacer" data-id="c2756c1" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9a4ffc2 elementor-widget elementor-widget-image" data-id="9a4ffc2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="291" height="291" src="http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/25388788904_72d2f5ec6f_z.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/25388788904_72d2f5ec6f_z.jpg 291w, http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/25388788904_72d2f5ec6f_z-150x150.jpg 150w" sizes="(max-width: 291px) 100vw, 291px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-8765af5 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="8765af5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-b192b44 elementor-column elementor-col-100 elementor-top-column" data-id="b192b44" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-11b2d64 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="11b2d64" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c66148c elementor-column elementor-col-50 elementor-inner-column" data-id="c66148c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d64a660 elementor-widget elementor-widget-heading" data-id="d64a660" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-large">content i fokus</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3176f84 elementor-widget elementor-widget-divider" data-id="3176f84" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator"></span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-04968bc elementor-widget elementor-widget-text-editor" data-id="04968bc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Content creation betyder for mig, at jeg kan komme til at arbejde kreativt samtidig med at jeg skaber noget relevant indhold til hjemmesider i form af reklamer, billeder eller video.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-f0d95d8 elementor-column elementor-col-50 elementor-inner-column" data-id="f0d95d8" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-aa6d40b elementor-widget elementor-widget-image" data-id="aa6d40b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="683" src="http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/tablet-1024x683.jpg" class="attachment-large size-large" alt="" srcset="http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/tablet-1024x683.jpg 1024w, http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/tablet-300x200.jpg 300w, http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/tablet-768x512.jpg 768w, http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/tablet.jpg 1050w" sizes="(max-width: 1024px) 100vw, 1024px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-aeb5d1e elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="aeb5d1e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-45cf208 elementor-column elementor-col-50 elementor-inner-column" data-id="45cf208" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5c6a436 elementor-widget elementor-widget-image" data-id="5c6a436" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="683" src="http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/adobe-1024x683.jpg" class="attachment-large size-large" alt="" srcset="http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/adobe-1024x683.jpg 1024w, http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/adobe-300x200.jpg 300w, http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/adobe-768x512.jpg 768w, http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/adobe.jpg 1050w" sizes="(max-width: 1024px) 100vw, 1024px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-9333991 elementor-column elementor-col-50 elementor-inner-column" data-id="9333991" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0e12838 elementor-widget elementor-widget-heading" data-id="0e12838" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-large">Digital art + editing</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1367cd1 elementor-widget elementor-widget-divider" data-id="1367cd1" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator"></span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-641156f elementor-widget elementor-widget-text-editor" data-id="641156f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Jeg har efterhånden fået erfaring inde for redigeringsprogrammerne:</p><p><strong>Adobe Photoshop CC<br /></strong><strong>Adobe InDesign CC<br />Krita</strong></p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-5926565 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="5926565" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5dcf3cc elementor-column elementor-col-50 elementor-inner-column" data-id="5dcf3cc" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1c09a43 elementor-widget elementor-widget-heading" data-id="1c09a43" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-large">passion for design</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-939ee7a elementor-widget elementor-widget-divider" data-id="939ee7a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator"></span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3586557 elementor-widget elementor-widget-text-editor" data-id="3586557" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Et godt layout betyder meget i forhold til brugervenligheden på ens side, og dét at kunne designe noget brugbart, samtidig med at eksperimentere med designs, er noget jeg har interesse i.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-7683d1a elementor-column elementor-col-50 elementor-inner-column" data-id="7683d1a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0fb66c9 elementor-widget elementor-widget-image" data-id="0fb66c9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="683" src="http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/photo-1522542550221-31fd19575a2d-1024x683.jpg" class="attachment-large size-large" alt="" srcset="http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/photo-1522542550221-31fd19575a2d-1024x683.jpg 1024w, http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/photo-1522542550221-31fd19575a2d-300x200.jpg 300w, http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/photo-1522542550221-31fd19575a2d-768x512.jpg 768w, http://ldbeaaa.dk/basicwordpress/wp-content/uploads/2019/09/photo-1522542550221-31fd19575a2d.jpg 1050w" sizes="(max-width: 1024px) 100vw, 1024px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-28d4685 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="28d4685" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-3f4d2d8 elementor-column elementor-col-100 elementor-top-column" data-id="3f4d2d8" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-51bed68 elementor-widget elementor-widget-heading" data-id="51bed68" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="http://ldbeaaa.dk/basicwordpress/om-mig/ " rel="nofollow">Klik her for at vide mere om mine færdigheder</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-435a9ae elementor-widget elementor-widget-spacer" data-id="435a9ae" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+        </main><!-- #main -->
+
+        
+        
+        
+            
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+
+    
+    <div id="footer-inner" class="clr">
+
+        
+
+<div id="footer-widgets" class="oceanwp-row clr">
+
+	
+	<div class="footer-widgets-inner container">
+
+        			<div class="footer-box span_1_of_4 col col-1">
+							</div><!-- .footer-one-box -->
+
+							<div class="footer-box span_1_of_4 col col-2">
+									</div><!-- .footer-one-box -->
+						
+							<div class="footer-box span_1_of_4 col col-3 ">
+									</div><!-- .footer-one-box -->
+			
+							<div class="footer-box span_1_of_4 col col-4">
+									</div><!-- .footer-box -->
+			
+		
+	</div><!-- .container -->
+
+	
+</div><!-- #footer-widgets -->
+
+
+
+<div id="footer-bottom" class="clr no-footer-nav">
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				Copyright - OceanWP Theme by Nick			</div><!-- #copyright -->
+
+		
+	</div><!-- #footer-bottom-inner -->
+
+	
+</div><!-- #footer-bottom -->
+
+        
+    </div><!-- #footer-inner -->
+
+    
+</footer><!-- #footer -->            
+        
+                        
+    </div><!-- #wrap -->
+
+    
+</div><!-- #outer-wrap -->
+
+
+
+<a id="scroll-top" class="scroll-top-right" href="#"><span class="fa fa-angle-up"></span></a>
+
+
+<div id="sidr-close">
+	<a href="#" class="toggle-sidr-close">
+		<i class="icon icon-close"></i><span class="close-text">Close Menu</span>
+	</a>
+</div>
+    
+    
+<div id="mobile-menu-search" class="clr">
+	<form method="get" action="http://ldbeaaa.dk/basicwordpress/" class="mobile-searchform">
+		<input type="search" name="s" autocomplete="off" placeholder="Search" />
+		<button type="submit" class="searchform-submit">
+			<i class="icon icon-magnifier"></i>
+		</button>
+			</form>
+</div><!-- .mobile-menu-search -->
+
+<script type='text/javascript' src='http://ldbeaaa.dk/basicwordpress/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://ldbeaaa.dk/basicwordpress/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://ldbeaaa.dk/basicwordpress/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.7.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var oceanwpLocalize = {"isRTL":"","menuSearchStyle":"disabled","sidrSource":"#sidr-close, #site-navigation, #mobile-menu-search","sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"icon","verticalHeaderTarget":"icon","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","ajax_url":"http:\/\/ldbeaaa.dk\/basicwordpress\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ldbeaaa.dk/basicwordpress/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://ldbeaaa.dk/basicwordpress/wp-includes/js/wp-embed.min.js?ver=5.2.3'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://ldbeaaa.dk/basicwordpress/wp-content/themes/oceanwp/assets/js//third/html5.min.js?ver=1.7.1'></script>
+<![endif]-->
+<script type='text/javascript' src='http://ldbeaaa.dk/basicwordpress/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.6.8'></script>
+<script type='text/javascript' src='http://ldbeaaa.dk/basicwordpress/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ldbeaaa.dk/basicwordpress/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='http://ldbeaaa.dk/basicwordpress/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='http://ldbeaaa.dk/basicwordpress/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=4.4.6'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.6.8","urls":{"assets":"http:\/\/ldbeaaa.dk\/basicwordpress\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":12,"title":"Elementor #12","excerpt":""}};
+</script>
+<script type='text/javascript' src='http://ldbeaaa.dk/basicwordpress/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.6.8'></script>
+</body>
+</html>
